@@ -2,6 +2,10 @@ Dimension Split!!
 
 What To Do - 
 
+Level Editor
+Character Movement
+Character Actions - Grab pull/push, Jump, Interact with objects, Climb, Dimension Fuse (choose which to follow)
+Create some sorta story
 
 
 What's being done -
@@ -13,3 +17,5 @@ What is done -
 
 
 Notes -
+
+Code this visually. IE Get something working basicly first then fix it up to where we want.
