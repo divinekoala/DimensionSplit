@@ -1,0 +1,270 @@
+fileFormatVersion: 2
+guid: e91e71651dd97874d9ea3f3cf32cf7c6
+timeCreated: 1455038156
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: alienBlue_0
+    21300002: alienBlue_2
+    21300004: alienBlue_3
+    21300006: alienBlue_4
+    21300008: alienBlue_5
+    21300010: alienBlue_6
+    21300012: alienBlue_7
+    21300014: alienBlue_8
+    21300016: alienBlue_9
+    21300018: alienBlue_1
+    21300020: alienBlue_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: alienBlue_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 415
+        width: 69
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 48.5}
+        - {x: -34.5, y: -48.5}
+        - {x: 19.5, y: -48.5}
+        - {x: 34.5, y: -26.5}
+        - {x: 34.5, y: 43.5}
+        - {x: 23.5, y: 48.5}
+    - name: alienBlue_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 415
+        width: 67
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 48.5}
+        - {x: -33.5, y: 40.5}
+        - {x: -33.5, y: -45.5}
+        - {x: 33.5, y: -45.5}
+        - {x: 33.5, y: 35.5}
+        - {x: 29.5, y: 48.5}
+      - - {x: -33.5, y: -15.5}
+        - {x: -30.5, y: -14.5}
+        - {x: -30.5, y: -10.5}
+        - {x: -32.5, y: -8.5}
+        - {x: -33.5, y: -8.5}
+    - name: alienBlue_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 69
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 47.5}
+        - {x: -34.5, y: -47.5}
+        - {x: 23.5, y: -47.5}
+        - {x: 34.5, y: -27.5}
+        - {x: 34.5, y: 44.5}
+        - {x: 32.5, y: 47.5}
+    - name: alienBlue_4
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 323
+        width: 66
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 46}
+        - {x: -33, y: 44}
+        - {x: -33, y: -36}
+        - {x: -24, y: -46}
+        - {x: 16, y: -46}
+        - {x: 24, y: -45}
+        - {x: 33, y: -37}
+        - {x: 33, y: 46}
+    - name: alienBlue_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 67
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.5, y: 46}
+        - {x: -22.5, y: 46}
+        - {x: -33.5, y: 32}
+        - {x: -33.5, y: -35}
+        - {x: -6.5, y: -46}
+        - {x: 27.5, y: -46}
+        - {x: 33.5, y: -32}
+        - {x: 33.5, y: 33}
+    - name: alienBlue_6
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 227
+        width: 66
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 46.5}
+        - {x: -33, y: 41.5}
+        - {x: -33, y: -46.5}
+        - {x: 31, y: -46.5}
+        - {x: 33, y: -43.5}
+        - {x: 33, y: 38.5}
+        - {x: 29, y: 46.5}
+    - name: alienBlue_7
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 231
+        width: 64
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 46}
+        - {x: -32, y: 43}
+        - {x: -32, y: -34}
+        - {x: -30, y: -46}
+        - {x: 31, y: -46}
+        - {x: 32, y: -38}
+        - {x: 32, y: 46}
+    - name: alienBlue_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 36}
+        - {x: -22.5, y: 35}
+        - {x: -33.5, y: 18}
+        - {x: -33.5, y: -36}
+        - {x: 28.5, y: -36}
+        - {x: 33.5, y: -16}
+        - {x: 33.5, y: 23}
+        - {x: 20.5, y: 36}
+    - name: alienBlue_9
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 134
+        width: 65
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 46.5}
+        - {x: -32.5, y: 34.5}
+        - {x: -32.5, y: -39.5}
+        - {x: -24.5, y: -46.5}
+        - {x: 32.5, y: -46.5}
+        - {x: 32.5, y: 40.5}
+        - {x: 28.5, y: 46.5}
+    - name: alienBlue_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59
+        width: 67
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 48.5}
+        - {x: -33.5, y: 37.5}
+        - {x: -33.5, y: -38.5}
+        - {x: -9.5, y: -48.5}
+        - {x: 12.5, y: -48.5}
+        - {x: 33.5, y: -30.5}
+        - {x: 33.5, y: 33.5}
+        - {x: 24.5, y: 48.5}
+    - name: alienBlue_10
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 42
+        width: 66
+        height: 92
+      alignment: 9
+      pivot: {x: 1.352999, y: 0.11311033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -89.29794, y: -10.406151}
+        - {x: -23.297943, y: -10.406151}
+        - {x: -23.297943, y: 81.59385}
+        - {x: -79.29794, y: 81.59385}
+        - {x: -89.29794, y: 73.59385}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
