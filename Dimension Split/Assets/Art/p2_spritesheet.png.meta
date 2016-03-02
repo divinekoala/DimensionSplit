@@ -1,25 +1,25 @@
 fileFormatVersion: 2
 guid: 1d92d8e169fc0c94da9acdcdcff10f04
-timeCreated: 1455038579
+timeCreated: 1456844484
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: p2_spritesheet_0
-    21300002: p2_spritesheet_1
-    21300004: p2_spritesheet_2
-    21300006: p2_spritesheet_3
-    21300008: p2_spritesheet_4
-    21300010: p2_spritesheet_5
-    21300012: p2_spritesheet_6
-    21300014: p2_spritesheet_7
-    21300016: p2_spritesheet_8
-    21300018: p2_spritesheet_9
-    21300020: p2_spritesheet_10
-    21300022: p2_spritesheet_11
-    21300024: p2_spritesheet_12
-    21300026: p2_spritesheet_13
-    21300028: p2_spritesheet_14
-    21300030: p2_spritesheet_15
+    21300000: p2_walk1
+    21300002: p2_walk2
+    21300004: p2_walk3
+    21300006: p2_walk7
+    21300008: p2_walk8
+    21300010: p2_walk9
+    21300012: p2_hurt
+    21300014: p2_walk4
+    21300016: p2_walk5
+    21300018: p2_walk6
+    21300020: p2_walk10
+    21300022: p2_walk11
+    21300024: p2_duck
+    21300026: p2_jump
+    21300028: p2_front
+    21300030: p2_stand
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -66,7 +66,7 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     sprites:
-    - name: p2_spritesheet_0
+    - name: p2_walk1
       rect:
         serializedVersion: 2
         x: 3
@@ -74,7 +74,7 @@ TextureImporter:
         width: 66
         height: 91
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -33, y: 45.5}
@@ -84,7 +84,7 @@ TextureImporter:
         - {x: 33, y: -34.5}
         - {x: 33, y: 32.5}
         - {x: 29, y: 45.5}
-    - name: p2_spritesheet_1
+    - name: p2_walk2
       rect:
         serializedVersion: 2
         x: 75
@@ -92,7 +92,7 @@ TextureImporter:
         width: 66
         height: 91
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -29, y: 45.5}
@@ -102,7 +102,7 @@ TextureImporter:
         - {x: 9, y: -45.5}
         - {x: 33, y: -34.5}
         - {x: 33, y: 45.5}
-    - name: p2_spritesheet_2
+    - name: p2_walk3
       rect:
         serializedVersion: 2
         x: 146
@@ -110,7 +110,7 @@ TextureImporter:
         width: 66
         height: 90
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 29, y: 45}
@@ -122,7 +122,7 @@ TextureImporter:
         - {x: 28, y: -26}
         - {x: 33, y: -18}
         - {x: 33, y: 33}
-    - name: p2_spritesheet_3
+    - name: p2_walk7
       rect:
         serializedVersion: 2
         x: 213
@@ -130,7 +130,7 @@ TextureImporter:
         width: 68
         height: 92
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -33, y: 46}
@@ -142,7 +142,7 @@ TextureImporter:
         - {x: 34, y: -29}
         - {x: 34, y: 38}
         - {x: 32, y: 46}
-    - name: p2_spritesheet_4
+    - name: p2_walk8
       rect:
         serializedVersion: 2
         x: 284
@@ -150,7 +150,7 @@ TextureImporter:
         width: 68
         height: 92
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -20, y: 46}
@@ -161,7 +161,7 @@ TextureImporter:
         - {x: 34, y: -21}
         - {x: 34, y: 32}
         - {x: 21, y: 46}
-    - name: p2_spritesheet_5
+    - name: p2_walk9
       rect:
         serializedVersion: 2
         x: 356
@@ -169,7 +169,7 @@ TextureImporter:
         width: 67
         height: 92
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -19.5, y: 46}
@@ -180,7 +180,7 @@ TextureImporter:
         - {x: 33.5, y: -42}
         - {x: 33.5, y: 36}
         - {x: 23.5, y: 46}
-    - name: p2_spritesheet_6
+    - name: p2_hurt
       rect:
         serializedVersion: 2
         x: 426
@@ -188,7 +188,7 @@ TextureImporter:
         width: 67
         height: 92
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -24.5, y: 46}
@@ -198,7 +198,7 @@ TextureImporter:
         - {x: 33.5, y: -46}
         - {x: 33.5, y: 41}
         - {x: 18.5, y: 46}
-    - name: p2_spritesheet_7
+    - name: p2_walk4
       rect:
         serializedVersion: 2
         x: 1
@@ -206,7 +206,7 @@ TextureImporter:
         width: 69
         height: 89
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -23.5, y: 44.5}
@@ -216,7 +216,7 @@ TextureImporter:
         - {x: 24.5, y: -44.5}
         - {x: 34.5, y: -38.5}
         - {x: 34.5, y: 44.5}
-    - name: p2_spritesheet_8
+    - name: p2_walk5
       rect:
         serializedVersion: 2
         x: 71
@@ -224,7 +224,7 @@ TextureImporter:
         width: 70
         height: 90
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -27, y: 45}
@@ -237,7 +237,7 @@ TextureImporter:
         - {x: 35, y: -27}
         - {x: 35, y: 41}
         - {x: 34, y: 45}
-    - name: p2_spritesheet_9
+    - name: p2_walk6
       rect:
         serializedVersion: 2
         x: 142
@@ -245,7 +245,7 @@ TextureImporter:
         width: 69
         height: 90
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -21.5, y: 45}
@@ -257,7 +257,7 @@ TextureImporter:
         - {x: 34.5, y: -38}
         - {x: 34.5, y: 39}
         - {x: 33.5, y: 45}
-    - name: p2_spritesheet_10
+    - name: p2_walk10
       rect:
         serializedVersion: 2
         x: 214
@@ -265,7 +265,7 @@ TextureImporter:
         width: 67
         height: 92
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -19.5, y: 46}
@@ -276,7 +276,7 @@ TextureImporter:
         - {x: 33.5, y: -36}
         - {x: 33.5, y: 42}
         - {x: 28.5, y: 46}
-    - name: p2_spritesheet_11
+    - name: p2_walk11
       rect:
         serializedVersion: 2
         x: 286
@@ -284,7 +284,7 @@ TextureImporter:
         width: 66
         height: 92
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -24, y: 46}
@@ -295,7 +295,7 @@ TextureImporter:
         - {x: 33, y: -33}
         - {x: 33, y: 43}
         - {x: 23, y: 46}
-    - name: p2_spritesheet_12
+    - name: p2_duck
       rect:
         serializedVersion: 2
         x: 355
@@ -303,7 +303,7 @@ TextureImporter:
         width: 67
         height: 72
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -25.5, y: 36}
@@ -313,7 +313,7 @@ TextureImporter:
         - {x: 33.5, y: -34}
         - {x: 33.5, y: 31}
         - {x: 22.5, y: 36}
-    - name: p2_spritesheet_13
+    - name: p2_jump
       rect:
         serializedVersion: 2
         x: 423
@@ -321,7 +321,7 @@ TextureImporter:
         width: 66
         height: 94
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -22, y: 47}
@@ -332,7 +332,7 @@ TextureImporter:
         - {x: 33, y: -37}
         - {x: 33, y: 34}
         - {x: 27, y: 47}
-    - name: p2_spritesheet_14
+    - name: p2_front
       rect:
         serializedVersion: 2
         x: 0
@@ -340,7 +340,7 @@ TextureImporter:
         width: 66
         height: 92
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -22, y: 46}
@@ -349,7 +349,7 @@ TextureImporter:
         - {x: -22, y: -46}
         - {x: 33, y: -46}
         - {x: 33, y: 46}
-    - name: p2_spritesheet_15
+    - name: p2_stand
       rect:
         serializedVersion: 2
         x: 67
@@ -357,7 +357,7 @@ TextureImporter:
         width: 66
         height: 92
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -30, y: 46}

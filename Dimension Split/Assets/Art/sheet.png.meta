@@ -1,104 +1,104 @@
 fileFormatVersion: 2
 guid: 0d80f0aa9c092944f874d0df305f66ad
-timeCreated: 1455038848
+timeCreated: 1456846491
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: sheet_0
-    21300002: sheet_1
-    21300004: sheet_2
-    21300006: sheet_3
-    21300008: sheet_4
-    21300010: sheet_5
-    21300012: sheet_6
-    21300014: sheet_7
-    21300016: sheet_8
-    21300018: sheet_9
-    21300020: sheet_10
-    21300022: sheet_11
-    21300024: sheet_12
-    21300026: sheet_13
-    21300028: sheet_14
-    21300030: sheet_15
-    21300032: sheet_16
-    21300034: sheet_17
-    21300036: sheet_18
-    21300038: sheet_19
-    21300040: sheet_20
-    21300042: sheet_21
-    21300044: sheet_22
-    21300046: sheet_23
-    21300048: sheet_24
-    21300050: sheet_25
-    21300052: sheet_26
-    21300054: sheet_27
-    21300056: sheet_28
-    21300058: sheet_29
-    21300060: sheet_30
-    21300062: sheet_31
-    21300064: sheet_32
-    21300066: sheet_33
-    21300068: sheet_34
-    21300070: sheet_35
-    21300072: sheet_36
-    21300074: sheet_37
-    21300076: sheet_38
-    21300078: sheet_39
-    21300080: sheet_40
-    21300082: sheet_41
-    21300084: sheet_42
-    21300086: sheet_43
-    21300088: sheet_44
-    21300090: sheet_45
-    21300092: sheet_46
-    21300094: sheet_47
-    21300096: sheet_48
-    21300098: sheet_49
-    21300100: sheet_50
-    21300102: sheet_51
-    21300104: sheet_52
-    21300106: sheet_53
-    21300108: sheet_54
-    21300110: sheet_55
-    21300112: sheet_56
-    21300114: sheet_57
-    21300116: sheet_58
-    21300118: sheet_59
-    21300120: sheet_60
-    21300122: sheet_61
-    21300124: sheet_62
-    21300126: sheet_63
-    21300128: sheet_64
-    21300130: sheet_65
-    21300132: sheet_66
-    21300134: sheet_67
-    21300136: sheet_68
-    21300138: sheet_69
-    21300140: sheet_70
-    21300142: sheet_71
-    21300144: sheet_72
-    21300146: sheet_73
-    21300148: sheet_74
-    21300150: sheet_75
-    21300152: sheet_76
-    21300154: sheet_77
-    21300156: sheet_78
-    21300158: sheet_79
-    21300160: sheet_80
-    21300162: sheet_81
-    21300164: sheet_82
-    21300166: sheet_83
-    21300168: sheet_84
-    21300170: sheet_85
-    21300172: sheet_86
-    21300174: sheet_87
-    21300176: sheet_88
-    21300178: sheet_89
-    21300180: sheet_90
-    21300182: sheet_91
-    21300184: sheet_92
-    21300186: sheet_93
-    21300188: sheet_94
+    21300000: cake_ledgeright
+    21300002: cake
+    21300004: cake_left
+    21300006: cake_mid
+    21300008: cake_right
+    21300010: cake_cliffleft
+    21300012: cake_hillright
+    21300014: cake_hillleft
+    21300016: cake_half
+    21300018: cake_halfleft
+    21300020: cake_halfalt
+    21300022: cake_halfaltleft
+    21300024: cherry
+    21300026: heart
+    21300028: cake_lefgeleft
+    21300030: cake_cliffleftalt
+    21300032: cake_center
+    21300034: cake_cliffrightalt
+    21300036: cake_centerround
+    21300038: cake_cliffright
+    21300040: cake_hillright2
+    21300042: cake_hillleft2
+    21300044: cake_halfmid
+    21300046: cake_halfright
+    21300048: cake_halfaltmid
+    21300050: cake_halfaltright
+    21300052: candy_yellow
+    21300054: candy_green
+    21300056: choco_ledgeright
+    21300058: choco
+    21300060: choco_left
+    21300062: choco_mid
+    21300064: choco_right
+    21300066: choco_cliffleft
+    21300068: choco_hillright
+    21300070: choco_hillleft
+    21300072: choco_half
+    21300074: choco_halfleft
+    21300076: choco_halfalt
+    21300078: choco_halfaltleft
+    21300080: candy_red
+    21300082: candy_blue
+    21300084: choco_ledgeleft
+    21300086: choco_cliffleftalt
+    21300088: choco_center
+    21300090: choco_cliffrightalt
+    21300092: choco_center round
+    21300094: choco_cliffright
+    21300096: choco_hillright2
+    21300098: choco_hillleft2
+    21300100: choco_halfmid
+    21300102: choco_halfright
+    21300104: choco_halfaltmid
+    21300106: choco_halfaltright
+    21300108: loli_swirlgreen
+    21300110: loli_swirlgreenalt
+    21300112: crfeamwhite
+    21300114: creamchoco
+    21300116: creammocha
+    21300118: creampink
+    21300120: cane_pinktop
+    21300122: cane_pinkalt
+    21300124: cane_pink
+    21300126: cane_pinksmall
+    21300128: loli_red
+    21300130: loli_green
+    21300132: loli_yellow
+    21300134: loli_swirlred
+    21300136: loli_swirlredalt
+    21300138: hillcane_red
+    21300140: hillcane_redtop
+    21300142: hillcane_green
+    21300144: hillcane_greentop
+    21300146: hillcane_pink
+    21300148: hilllcane_pink_top
+    21300150: hillcane_choco
+    21300152: hillcane_chocotop
+    21300154: loli_base
+    21300156: loli_basecake
+    21300158: loli_basecakepink
+    21300160: loli_basebeige
+    21300162: loli_basechoco
+    21300164: cup_cake
+    21300166: waffle_pink
+    21300168: waffle_white
+    21300170: waffle_choco
+    21300172: cookie_pink
+    21300174: cookie_brown
+    21300176: cookie_choco
+    21300178: gummyworm_end
+    21300180: gummyworm_mid
+    21300182: gummyworm_head
+    21300184: gummyworm_redend
+    21300186: gummyworm_redmid
+    21300188: gummyworm_redhead
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -145,7 +145,7 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     sprites:
-    - name: sheet_0
+    - name: cake_ledgeright
       rect:
         serializedVersion: 2
         x: 0
@@ -153,7 +153,7 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -35, y: 35}
@@ -166,7 +166,7 @@ TextureImporter:
         - {x: 35, y: 24}
         - {x: 35, y: 29}
         - {x: 33, y: 29}
-    - name: sheet_1
+    - name: cake
       rect:
         serializedVersion: 2
         x: 70
@@ -174,7 +174,7 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -35, y: 35}
@@ -182,7 +182,7 @@ TextureImporter:
         - {x: -33, y: -35}
         - {x: 35, y: -35}
         - {x: 35, y: 35}
-    - name: sheet_2
+    - name: cake_left
       rect:
         serializedVersion: 2
         x: 140
@@ -190,7 +190,7 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -33, y: 35}
@@ -199,7 +199,7 @@ TextureImporter:
         - {x: -33, y: -35}
         - {x: 35, y: -35}
         - {x: 35, y: 35}
-    - name: sheet_3
+    - name: cake_mid
       rect:
         serializedVersion: 2
         x: 210
@@ -207,14 +207,14 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -35, y: 35}
         - {x: -35, y: -35}
         - {x: 35, y: -35}
         - {x: 35, y: 35}
-    - name: sheet_4
+    - name: cake_right
       rect:
         serializedVersion: 2
         x: 280
@@ -222,7 +222,7 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -35, y: 35}
@@ -231,7 +231,7 @@ TextureImporter:
         - {x: 35, y: -33}
         - {x: 35, y: 33}
         - {x: 33, y: 35}
-    - name: sheet_5
+    - name: cake_cliffleft
       rect:
         serializedVersion: 2
         x: 350
@@ -239,7 +239,7 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -35, y: 35}
@@ -247,7 +247,7 @@ TextureImporter:
         - {x: -6, y: -35}
         - {x: 35, y: -35}
         - {x: 35, y: 35}
-    - name: sheet_6
+    - name: cake_hillright
       rect:
         serializedVersion: 2
         x: 420
@@ -255,7 +255,7 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -35, y: 35}
@@ -263,7 +263,7 @@ TextureImporter:
         - {x: 35, y: -35}
         - {x: 35, y: -32}
         - {x: -32, y: 35}
-    - name: sheet_7
+    - name: cake_hillleft
       rect:
         serializedVersion: 2
         x: 490
@@ -271,7 +271,7 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 32, y: 35}
@@ -279,113 +279,107 @@ TextureImporter:
         - {x: -35, y: -35}
         - {x: 35, y: -35}
         - {x: 35, y: 35}
-    - name: sheet_8
+    - name: cake_half
       rect:
         serializedVersion: 2
         x: 560
-        y: 420
+        y: 450
         width: 70
-        height: 70
+        height: 40
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -35, y: 35}
-        - {x: -35, y: -8}
-        - {x: 30, y: -8}
-        - {x: 35, y: -5}
-        - {x: 35, y: 33}
-        - {x: 33, y: 35}
-    - name: sheet_9
+      - - {x: -35, y: 20}
+        - {x: -35, y: -20}
+        - {x: 35, y: -20}
+        - {x: 35, y: 20}
+    - name: cake_halfleft
       rect:
         serializedVersion: 2
         x: 630
-        y: 420
+        y: 450
         width: 70
-        height: 70
+        height: 40
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -33, y: 35}
-        - {x: -35, y: 33}
-        - {x: -35, y: -5}
-        - {x: -30, y: -8}
-        - {x: 35, y: -8}
-        - {x: 35, y: 35}
-    - name: sheet_10
+      - - {x: -33, y: 20}
+        - {x: -35, y: 18}
+        - {x: -35, y: -19}
+        - {x: -34, y: -20}
+        - {x: 35, y: -20}
+        - {x: 35, y: 20}
+    - name: cake_halfalt
       rect:
         serializedVersion: 2
         x: 700
-        y: 420
+        y: 450
         width: 70
-        height: 70
+        height: 40
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -35, y: 35}
-        - {x: -35, y: -8}
-        - {x: 30, y: -8}
-        - {x: 35, y: -5}
-        - {x: 35, y: 33}
-        - {x: 33, y: 35}
-    - name: sheet_11
+      - - {x: -35, y: 20}
+        - {x: -35, y: -20}
+        - {x: 35, y: -20}
+        - {x: 35, y: 20}
+    - name: cake_halfaltleft
       rect:
         serializedVersion: 2
         x: 770
-        y: 420
+        y: 450
         width: 70
-        height: 70
+        height: 40
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -33, y: 35}
-        - {x: -35, y: 33}
-        - {x: -35, y: -5}
-        - {x: -30, y: -8}
-        - {x: 35, y: -8}
-        - {x: 35, y: 35}
-    - name: sheet_12
+      - - {x: -33, y: 20}
+        - {x: -35, y: 18}
+        - {x: -35, y: -19}
+        - {x: -34, y: -20}
+        - {x: 35, y: -20}
+        - {x: 35, y: 20}
+    - name: cherry
       rect:
         serializedVersion: 2
-        x: 840
+        x: 848
         y: 420
-        width: 70
-        height: 70
+        width: 56
+        height: 65
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 19, y: 32}
-        - {x: 0, y: 32}
-        - {x: -28, y: 5}
-        - {x: -28, y: -32}
-        - {x: -20, y: -35}
-        - {x: 16, y: -35}
-        - {x: 24, y: -22}
-        - {x: 31, y: -1}
-        - {x: 31, y: 28}
-    - name: sheet_13
+      - - {x: -1, y: 32.5}
+        - {x: -28, y: 7.5}
+        - {x: -28, y: -25.5}
+        - {x: -22, y: -32.5}
+        - {x: 18, y: -32.5}
+        - {x: 28, y: -11.5}
+        - {x: 28, y: 32.5}
+    - name: heart
       rect:
         serializedVersion: 2
-        x: 910
+        x: 923
         y: 420
-        width: 70
-        height: 70
+        width: 45
+        height: 36
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -10, y: 4}
-        - {x: -24, y: -7}
-        - {x: -24, y: -34}
-        - {x: -21, y: -35}
-        - {x: 22, y: -35}
-        - {x: 25, y: -22}
-        - {x: 25, y: 4}
-    - name: sheet_14
+      - - {x: -10.5, y: 18}
+        - {x: -17.5, y: 15}
+        - {x: -22.5, y: 12}
+        - {x: -22.5, y: -18}
+        - {x: 18.5, y: -18}
+        - {x: 22.5, y: -5}
+        - {x: 22.5, y: 18}
+    - name: cake_lefgeleft
       rect:
         serializedVersion: 2
         x: 0
@@ -393,7 +387,7 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 28, y: 35}
@@ -401,7 +395,7 @@ TextureImporter:
         - {x: 32, y: 15}
         - {x: 35, y: 15}
         - {x: 35, y: 35}
-    - name: sheet_15
+    - name: cake_cliffleftalt
       rect:
         serializedVersion: 2
         x: 70
@@ -409,7 +403,7 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -34, y: 35}
@@ -418,7 +412,7 @@ TextureImporter:
         - {x: 9, y: -35}
         - {x: 35, y: -35}
         - {x: 35, y: 35}
-    - name: sheet_16
+    - name: cake_center
       rect:
         serializedVersion: 2
         x: 140
@@ -426,14 +420,14 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -35, y: 35}
         - {x: -35, y: -35}
         - {x: 35, y: -35}
         - {x: 35, y: 35}
-    - name: sheet_17
+    - name: cake_cliffrightalt
       rect:
         serializedVersion: 2
         x: 210
@@ -441,7 +435,7 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -35, y: 35}
@@ -450,7 +444,7 @@ TextureImporter:
         - {x: 35, y: 8}
         - {x: 35, y: 33}
         - {x: 33, y: 35}
-    - name: sheet_18
+    - name: cake_centerround
       rect:
         serializedVersion: 2
         x: 280
@@ -458,7 +452,7 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -34, y: 35}
@@ -469,7 +463,7 @@ TextureImporter:
         - {x: 35, y: -33}
         - {x: 35, y: 33}
         - {x: 33, y: 35}
-    - name: sheet_19
+    - name: cake_cliffright
       rect:
         serializedVersion: 2
         x: 350
@@ -477,7 +471,7 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -35, y: 35}
@@ -487,7 +481,7 @@ TextureImporter:
         - {x: 35, y: -11}
         - {x: 35, y: 34}
         - {x: 34, y: 35}
-    - name: sheet_20
+    - name: cake_hillright2
       rect:
         serializedVersion: 2
         x: 420
@@ -495,14 +489,14 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -35, y: 35}
         - {x: -35, y: -35}
         - {x: 35, y: -35}
         - {x: 35, y: 35}
-    - name: sheet_21
+    - name: cake_hillleft2
       rect:
         serializedVersion: 2
         x: 490
@@ -510,121 +504,113 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -35, y: 35}
         - {x: -35, y: -35}
         - {x: 35, y: -35}
         - {x: 35, y: 35}
-    - name: sheet_22
+    - name: cake_halfmid
       rect:
         serializedVersion: 2
         x: 560
-        y: 350
+        y: 380
         width: 70
-        height: 70
+        height: 40
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -35, y: 35}
-        - {x: -35, y: -8}
-        - {x: 35, y: -8}
-        - {x: 35, y: 35}
-    - name: sheet_23
+      - - {x: -35, y: 20}
+        - {x: -35, y: -20}
+        - {x: 35, y: -20}
+        - {x: 35, y: 20}
+    - name: cake_halfright
       rect:
         serializedVersion: 2
         x: 630
-        y: 350
+        y: 380
         width: 70
-        height: 70
+        height: 40
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -35, y: 35}
-        - {x: -35, y: -8}
-        - {x: 29, y: -8}
-        - {x: 35, y: -7}
-        - {x: 35, y: 35}
-    - name: sheet_24
+      - - {x: -35, y: 20}
+        - {x: -35, y: -20}
+        - {x: 34, y: -20}
+        - {x: 35, y: -19}
+        - {x: 35, y: 18}
+        - {x: 33, y: 20}
+    - name: cake_halfaltmid
       rect:
         serializedVersion: 2
         x: 700
-        y: 350
+        y: 380
         width: 70
-        height: 70
+        height: 40
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -35, y: 35}
-        - {x: -35, y: -8}
-        - {x: 35, y: -8}
-        - {x: 35, y: 35}
-    - name: sheet_25
+      - - {x: -35, y: 20}
+        - {x: -35, y: -20}
+        - {x: 35, y: -20}
+        - {x: 35, y: 20}
+    - name: cake_halfaltright
       rect:
         serializedVersion: 2
         x: 770
-        y: 350
+        y: 380
         width: 70
-        height: 70
+        height: 40
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -35, y: 35}
-        - {x: -35, y: -8}
-        - {x: 29, y: -8}
-        - {x: 35, y: -7}
-        - {x: 35, y: 35}
-    - name: sheet_26
+      - - {x: -35, y: 20}
+        - {x: -35, y: -20}
+        - {x: 34, y: -20}
+        - {x: 35, y: -19}
+        - {x: 35, y: 18}
+        - {x: 33, y: 20}
+    - name: candy_yellow
       rect:
         serializedVersion: 2
-        x: 840
+        x: 849
         y: 350
-        width: 70
-        height: 70
+        width: 52
+        height: 36
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -13, y: 3}
-        - {x: -18, y: -2}
-        - {x: -27, y: -21}
-        - {x: -27, y: -35}
-        - {x: 27, y: -35}
-        - {x: 27, y: -24}
-        - {x: 26, y: -16}
-        - {x: 22, y: -1}
-        - {x: 10, y: 3}
-      - - {x: -10, y: 35}
-        - {x: -9, y: 32}
-        - {x: 1, y: 32}
-        - {x: 3, y: 34}
-        - {x: 3, y: 35}
-    - name: sheet_27
+      - - {x: -14, y: 18}
+        - {x: -26, y: 2}
+        - {x: -26, y: -18}
+        - {x: 26, y: -18}
+        - {x: 26, y: 2}
+        - {x: 13, y: 18}
+    - name: candy_green
       rect:
         serializedVersion: 2
-        x: 910
+        x: 920
         y: 350
-        width: 70
-        height: 70
+        width: 50
+        height: 36
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -13, y: 3}
-        - {x: -18, y: -2}
-        - {x: -27, y: -21}
-        - {x: -27, y: -35}
-        - {x: 27, y: -35}
-        - {x: 27, y: -24}
-        - {x: 26, y: -16}
-        - {x: 22, y: -1}
-        - {x: 10, y: 3}
-    - name: sheet_28
+      - - {x: 18, y: 18}
+        - {x: -17, y: 18}
+        - {x: -25, y: -2}
+        - {x: -25, y: -18}
+        - {x: 25, y: -18}
+        - {x: 25, y: 1}
+        - {x: 23, y: 17}
+    - name: choco_ledgeright
       rect:
         serializedVersion: 2
         x: 0
@@ -632,7 +618,7 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -35, y: 35}
@@ -640,22 +626,23 @@ TextureImporter:
         - {x: -32, y: 10}
         - {x: -28, y: 20}
         - {x: -28, y: 35}
-    - name: sheet_29
+    - name: choco
       rect:
         serializedVersion: 2
-        x: 70
+        x: 71
         y: 280
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -35, y: 35}
         - {x: -35, y: -35}
-        - {x: 35, y: -35}
+        - {x: 33, y: -35}
+        - {x: 35, y: -33}
         - {x: 35, y: 35}
-    - name: sheet_30
+    - name: choco_left
       rect:
         serializedVersion: 2
         x: 140
@@ -663,7 +650,7 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -33, y: 35}
@@ -672,7 +659,7 @@ TextureImporter:
         - {x: -33, y: -35}
         - {x: 35, y: -35}
         - {x: 35, y: 35}
-    - name: sheet_31
+    - name: choco_mid
       rect:
         serializedVersion: 2
         x: 210
@@ -680,14 +667,14 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -35, y: 35}
         - {x: -35, y: -35}
         - {x: 35, y: -35}
         - {x: 35, y: 35}
-    - name: sheet_32
+    - name: choco_right
       rect:
         serializedVersion: 2
         x: 280
@@ -695,7 +682,7 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -35, y: 35}
@@ -704,7 +691,7 @@ TextureImporter:
         - {x: 35, y: -33}
         - {x: 35, y: 33}
         - {x: 33, y: 35}
-    - name: sheet_33
+    - name: choco_cliffleft
       rect:
         serializedVersion: 2
         x: 350
@@ -712,7 +699,7 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -35, y: 35}
@@ -720,7 +707,7 @@ TextureImporter:
         - {x: -6, y: -35}
         - {x: 35, y: -35}
         - {x: 35, y: 35}
-    - name: sheet_34
+    - name: choco_hillright
       rect:
         serializedVersion: 2
         x: 420
@@ -728,7 +715,7 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -35, y: 35}
@@ -736,7 +723,7 @@ TextureImporter:
         - {x: 35, y: -35}
         - {x: 35, y: -32}
         - {x: -32, y: 35}
-    - name: sheet_35
+    - name: choco_hillleft
       rect:
         serializedVersion: 2
         x: 490
@@ -744,7 +731,7 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 32, y: 35}
@@ -752,111 +739,107 @@ TextureImporter:
         - {x: -35, y: -35}
         - {x: 35, y: -35}
         - {x: 35, y: 35}
-    - name: sheet_36
+    - name: choco_half
       rect:
         serializedVersion: 2
         x: 560
-        y: 280
+        y: 310
         width: 70
-        height: 70
+        height: 40
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -35, y: 35}
-        - {x: -35, y: -7}
-        - {x: 35, y: -7}
-        - {x: 35, y: 35}
-    - name: sheet_37
+      - - {x: -35, y: 20}
+        - {x: -35, y: -20}
+        - {x: 35, y: -20}
+        - {x: 35, y: 20}
+    - name: choco_halfleft
       rect:
         serializedVersion: 2
         x: 630
-        y: 280
+        y: 310
         width: 70
-        height: 70
+        height: 40
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -33, y: 35}
-        - {x: -35, y: 33}
-        - {x: -35, y: -3}
-        - {x: -31, y: -7}
-        - {x: 35, y: -7}
-        - {x: 35, y: 35}
-    - name: sheet_38
+      - - {x: -33, y: 20}
+        - {x: -35, y: 18}
+        - {x: -35, y: -18}
+        - {x: -33, y: -20}
+        - {x: 35, y: -20}
+        - {x: 35, y: 20}
+    - name: choco_halfalt
       rect:
         serializedVersion: 2
         x: 700
-        y: 280
+        y: 310
         width: 70
-        height: 70
+        height: 40
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -35, y: 35}
-        - {x: -35, y: -7}
-        - {x: 35, y: -7}
-        - {x: 35, y: 35}
-    - name: sheet_39
+      - - {x: -35, y: 20}
+        - {x: -35, y: -20}
+        - {x: 35, y: -20}
+        - {x: 35, y: 20}
+    - name: choco_halfaltleft
       rect:
         serializedVersion: 2
         x: 770
-        y: 280
+        y: 310
         width: 70
-        height: 70
+        height: 40
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -33, y: 35}
-        - {x: -35, y: 33}
-        - {x: -35, y: -3}
-        - {x: -31, y: -7}
-        - {x: 35, y: -7}
-        - {x: 35, y: 35}
-    - name: sheet_40
+      - - {x: -33, y: 20}
+        - {x: -35, y: 18}
+        - {x: -35, y: -18}
+        - {x: -33, y: -20}
+        - {x: 35, y: -20}
+        - {x: 35, y: 20}
+    - name: candy_red
       rect:
         serializedVersion: 2
-        x: 840
+        x: 850
         y: 280
-        width: 70
-        height: 70
+        width: 50
+        height: 36
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -13, y: 3}
-        - {x: -18, y: -2}
-        - {x: -27, y: -21}
-        - {x: -27, y: -35}
-        - {x: 27, y: -35}
-        - {x: 27, y: -24}
-        - {x: 26, y: -16}
-        - {x: 22, y: -1}
-        - {x: 10, y: 3}
-    - name: sheet_41
+      - - {x: 18, y: 18}
+        - {x: -17, y: 18}
+        - {x: -25, y: -2}
+        - {x: -25, y: -18}
+        - {x: 25, y: -18}
+        - {x: 25, y: 1}
+        - {x: 23, y: 17}
+    - name: candy_blue
       rect:
         serializedVersion: 2
-        x: 910
+        x: 920
         y: 280
-        width: 70
-        height: 70
+        width: 50
+        height: 36
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -13, y: 3}
-        - {x: -18, y: -2}
-        - {x: -27, y: -21}
-        - {x: -27, y: -35}
-        - {x: 27, y: -35}
-        - {x: 27, y: -24}
-        - {x: 26, y: -16}
-        - {x: 22, y: -1}
-        - {x: 10, y: 3}
-    - name: sheet_42
+      - - {x: 18, y: 18}
+        - {x: -17, y: 18}
+        - {x: -25, y: -2}
+        - {x: -25, y: -18}
+        - {x: 25, y: -18}
+        - {x: 25, y: 1}
+        - {x: 23, y: 17}
+    - name: choco_ledgeleft
       rect:
         serializedVersion: 2
         x: 0
@@ -864,7 +847,7 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 28, y: 35}
@@ -872,7 +855,7 @@ TextureImporter:
         - {x: 33, y: 9}
         - {x: 35, y: 9}
         - {x: 35, y: 35}
-    - name: sheet_43
+    - name: choco_cliffleftalt
       rect:
         serializedVersion: 2
         x: 70
@@ -880,7 +863,7 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -33, y: 35}
@@ -889,7 +872,7 @@ TextureImporter:
         - {x: 9, y: -35}
         - {x: 35, y: -35}
         - {x: 35, y: 35}
-    - name: sheet_44
+    - name: choco_center
       rect:
         serializedVersion: 2
         x: 140
@@ -897,14 +880,14 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -35, y: 35}
         - {x: -35, y: -35}
         - {x: 35, y: -35}
         - {x: 35, y: 35}
-    - name: sheet_45
+    - name: choco_cliffrightalt
       rect:
         serializedVersion: 2
         x: 210
@@ -912,7 +895,7 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 33, y: 35}
@@ -921,7 +904,7 @@ TextureImporter:
         - {x: -8, y: -35}
         - {x: 35, y: 8}
         - {x: 35, y: 33}
-    - name: sheet_46
+    - name: choco_center round
       rect:
         serializedVersion: 2
         x: 280
@@ -929,7 +912,7 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -34, y: 35}
@@ -940,7 +923,7 @@ TextureImporter:
         - {x: 35, y: -33}
         - {x: 35, y: 33}
         - {x: 33, y: 35}
-    - name: sheet_47
+    - name: choco_cliffright
       rect:
         serializedVersion: 2
         x: 350
@@ -948,7 +931,7 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -35, y: 35}
@@ -956,7 +939,7 @@ TextureImporter:
         - {x: 2, y: -35}
         - {x: 35, y: -18}
         - {x: 35, y: 35}
-    - name: sheet_48
+    - name: choco_hillright2
       rect:
         serializedVersion: 2
         x: 420
@@ -964,93 +947,93 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -35, y: 35}
         - {x: -35, y: -35}
         - {x: 35, y: -35}
         - {x: 35, y: 35}
-    - name: sheet_49
+    - name: choco_hillleft2
       rect:
         serializedVersion: 2
         x: 490
-        y: 210
+        y: 211
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -35, y: 35}
         - {x: -35, y: -35}
         - {x: 35, y: -35}
         - {x: 35, y: 35}
-    - name: sheet_50
+    - name: choco_halfmid
       rect:
         serializedVersion: 2
         x: 560
-        y: 210
+        y: 240
         width: 70
-        height: 70
+        height: 40
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -35, y: 35}
-        - {x: -35, y: -7}
-        - {x: 35, y: -7}
-        - {x: 35, y: 35}
-    - name: sheet_51
+      - - {x: -35, y: 20}
+        - {x: -35, y: -20}
+        - {x: 35, y: -20}
+        - {x: 35, y: 20}
+    - name: choco_halfright
       rect:
         serializedVersion: 2
         x: 630
-        y: 210
+        y: 240
         width: 70
-        height: 70
+        height: 40
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -35, y: 35}
-        - {x: -35, y: -7}
-        - {x: 31, y: -7}
-        - {x: 35, y: -3}
-        - {x: 35, y: 33}
-        - {x: 33, y: 35}
-    - name: sheet_52
+      - - {x: -35, y: 20}
+        - {x: -35, y: -20}
+        - {x: 33, y: -20}
+        - {x: 35, y: -18}
+        - {x: 35, y: 18}
+        - {x: 33, y: 20}
+    - name: choco_halfaltmid
       rect:
         serializedVersion: 2
         x: 700
-        y: 210
+        y: 240
         width: 70
-        height: 70
+        height: 40
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -35, y: 35}
-        - {x: -35, y: -7}
-        - {x: 35, y: -7}
-        - {x: 35, y: 35}
-    - name: sheet_53
+      - - {x: -35, y: 20}
+        - {x: -35, y: -20}
+        - {x: 35, y: -20}
+        - {x: 35, y: 20}
+    - name: choco_halfaltright
       rect:
         serializedVersion: 2
         x: 770
-        y: 210
+        y: 240
         width: 70
-        height: 70
+        height: 40
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -35, y: 35}
-        - {x: -35, y: -7}
-        - {x: 31, y: -7}
-        - {x: 35, y: -3}
-        - {x: 35, y: 33}
-        - {x: 33, y: 35}
-    - name: sheet_54
+      - - {x: -35, y: 20}
+        - {x: -35, y: -20}
+        - {x: 33, y: -20}
+        - {x: 35, y: -18}
+        - {x: 35, y: 18}
+        - {x: 33, y: 20}
+    - name: loli_swirlgreen
       rect:
         serializedVersion: 2
         x: 840
@@ -1058,7 +1041,7 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -31, y: 35}
@@ -1074,7 +1057,7 @@ TextureImporter:
         - {x: -32, y: 26}
         - {x: -34, y: 28}
         - {x: -35, y: 28}
-    - name: sheet_55
+    - name: loli_swirlgreenalt
       rect:
         serializedVersion: 2
         x: 910
@@ -1082,7 +1065,7 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -31, y: 35}
@@ -1093,7 +1076,7 @@ TextureImporter:
         - {x: 35, y: -20}
         - {x: 35, y: 22}
         - {x: 22, y: 35}
-    - name: sheet_56
+    - name: crfeamwhite
       rect:
         serializedVersion: 2
         x: 70
@@ -1101,7 +1084,7 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 17, y: 22}
@@ -1112,7 +1095,7 @@ TextureImporter:
         - {x: 35, y: -35}
         - {x: 35, y: -9}
         - {x: 34, y: 1}
-    - name: sheet_57
+    - name: creamchoco
       rect:
         serializedVersion: 2
         x: 140
@@ -1120,7 +1103,7 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 17, y: 22}
@@ -1131,7 +1114,7 @@ TextureImporter:
         - {x: 35, y: -35}
         - {x: 35, y: -9}
         - {x: 34, y: 1}
-    - name: sheet_58
+    - name: creammocha
       rect:
         serializedVersion: 2
         x: 210
@@ -1139,7 +1122,7 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 17, y: 22}
@@ -1150,7 +1133,7 @@ TextureImporter:
         - {x: 35, y: -35}
         - {x: 35, y: -9}
         - {x: 34, y: 1}
-    - name: sheet_59
+    - name: creampink
       rect:
         serializedVersion: 2
         x: 280
@@ -1158,7 +1141,7 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 17, y: 22}
@@ -1169,7 +1152,7 @@ TextureImporter:
         - {x: 35, y: -35}
         - {x: 35, y: -9}
         - {x: 34, y: 1}
-    - name: sheet_60
+    - name: cane_pinktop
       rect:
         serializedVersion: 2
         x: 350
@@ -1177,7 +1160,7 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -30, y: 35}
@@ -1187,7 +1170,7 @@ TextureImporter:
         - {x: 35, y: -20}
         - {x: 35, y: 21}
         - {x: 31, y: 35}
-    - name: sheet_61
+    - name: cane_pinkalt
       rect:
         serializedVersion: 2
         x: 420
@@ -1195,7 +1178,7 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -18, y: 35}
@@ -1205,7 +1188,7 @@ TextureImporter:
         - {x: 35, y: -20}
         - {x: 35, y: 20}
         - {x: 21, y: 35}
-    - name: sheet_62
+    - name: cane_pink
       rect:
         serializedVersion: 2
         x: 490
@@ -1213,34 +1196,36 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -13, y: -35}
         - {x: -13, y: 35}
         - {x: -35, y: 35}
         - {x: -35, y: -35}
-    - name: sheet_63
+    - name: cane_pinksmall
       rect:
         serializedVersion: 2
         x: 560
         y: 140
         width: 70
-        height: 70
+        height: 59
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 31, y: -23}
-        - {x: 35, y: -11}
-        - {x: 35, y: 26}
-        - {x: -13, y: 26}
-        - {x: -35, y: -27}
-        - {x: -35, y: -35}
-        - {x: 35, y: -35}
-        - {x: 35, y: -30}
-        - {x: 24, y: -21}
-    - name: sheet_64
+      - - {x: 31, y: -17.5}
+        - {x: 35, y: -7.5}
+        - {x: 35, y: 25.5}
+        - {x: 32, y: 29.5}
+        - {x: 2, y: 29.5}
+        - {x: -7, y: 25.5}
+        - {x: -35, y: -22.5}
+        - {x: -35, y: -29.5}
+        - {x: 35, y: -29.5}
+        - {x: 35, y: -24.5}
+        - {x: 24, y: -15.5}
+    - name: loli_red
       rect:
         serializedVersion: 2
         x: 630
@@ -1248,7 +1233,7 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -23, y: 35}
@@ -1259,7 +1244,7 @@ TextureImporter:
         - {x: 35, y: -26}
         - {x: 35, y: 29}
         - {x: 25, y: 35}
-    - name: sheet_65
+    - name: loli_green
       rect:
         serializedVersion: 2
         x: 700
@@ -1267,7 +1252,7 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -23, y: 35}
@@ -1278,7 +1263,7 @@ TextureImporter:
         - {x: 35, y: -26}
         - {x: 35, y: 29}
         - {x: 25, y: 35}
-    - name: sheet_66
+    - name: loli_yellow
       rect:
         serializedVersion: 2
         x: 770
@@ -1286,7 +1271,7 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -23, y: 35}
@@ -1297,7 +1282,7 @@ TextureImporter:
         - {x: 35, y: -26}
         - {x: 35, y: 29}
         - {x: 25, y: 35}
-    - name: sheet_67
+    - name: loli_swirlred
       rect:
         serializedVersion: 2
         x: 840
@@ -1305,7 +1290,7 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -31, y: 35}
@@ -1316,7 +1301,7 @@ TextureImporter:
         - {x: 35, y: -20}
         - {x: 35, y: 22}
         - {x: 22, y: 35}
-    - name: sheet_68
+    - name: loli_swirlredalt
       rect:
         serializedVersion: 2
         x: 910
@@ -1324,7 +1309,7 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -31, y: 35}
@@ -1335,7 +1320,7 @@ TextureImporter:
         - {x: 35, y: -20}
         - {x: 35, y: 22}
         - {x: 22, y: 35}
-    - name: sheet_69
+    - name: hillcane_red
       rect:
         serializedVersion: 2
         x: 70
@@ -1343,14 +1328,14 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -35, y: 35}
         - {x: -35, y: -35}
         - {x: 35, y: -35}
         - {x: 35, y: 35}
-    - name: sheet_70
+    - name: hillcane_redtop
       rect:
         serializedVersion: 2
         x: 140
@@ -1358,7 +1343,7 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -35, y: 35}
@@ -1366,7 +1351,7 @@ TextureImporter:
         - {x: 35, y: -35}
         - {x: 35, y: 21}
         - {x: 29, y: 35}
-    - name: sheet_71
+    - name: hillcane_green
       rect:
         serializedVersion: 2
         x: 210
@@ -1374,14 +1359,14 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -35, y: 35}
         - {x: -35, y: -35}
         - {x: 35, y: -35}
         - {x: 35, y: 35}
-    - name: sheet_72
+    - name: hillcane_greentop
       rect:
         serializedVersion: 2
         x: 280
@@ -1389,7 +1374,7 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -35, y: 35}
@@ -1397,7 +1382,7 @@ TextureImporter:
         - {x: 35, y: -35}
         - {x: 35, y: 21}
         - {x: 29, y: 35}
-    - name: sheet_73
+    - name: hillcane_pink
       rect:
         serializedVersion: 2
         x: 350
@@ -1405,14 +1390,14 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -35, y: 35}
         - {x: -35, y: -35}
         - {x: 35, y: -35}
         - {x: 35, y: 35}
-    - name: sheet_74
+    - name: hilllcane_pink_top
       rect:
         serializedVersion: 2
         x: 420
@@ -1420,7 +1405,7 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -35, y: 35}
@@ -1428,7 +1413,7 @@ TextureImporter:
         - {x: 35, y: -35}
         - {x: 35, y: 21}
         - {x: 29, y: 35}
-    - name: sheet_75
+    - name: hillcane_choco
       rect:
         serializedVersion: 2
         x: 490
@@ -1436,14 +1421,14 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -35, y: 35}
         - {x: -35, y: -35}
         - {x: 35, y: -35}
         - {x: 35, y: 35}
-    - name: sheet_76
+    - name: hillcane_chocotop
       rect:
         serializedVersion: 2
         x: 560
@@ -1451,7 +1436,7 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -35, y: 35}
@@ -1459,7 +1444,7 @@ TextureImporter:
         - {x: 35, y: -35}
         - {x: 35, y: 21}
         - {x: 29, y: 35}
-    - name: sheet_77
+    - name: loli_base
       rect:
         serializedVersion: 2
         x: 630
@@ -1467,14 +1452,14 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 6, y: -35}
         - {x: 6, y: 35}
         - {x: -6, y: 35}
         - {x: -6, y: -35}
-    - name: sheet_78
+    - name: loli_basecake
       rect:
         serializedVersion: 2
         x: 700
@@ -1482,7 +1467,7 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -6, y: 35}
@@ -1491,7 +1476,7 @@ TextureImporter:
         - {x: 27, y: -35}
         - {x: 27, y: -23}
         - {x: 6, y: 35}
-    - name: sheet_79
+    - name: loli_basecakepink
       rect:
         serializedVersion: 2
         x: 770
@@ -1499,7 +1484,7 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -6, y: 35}
@@ -1508,7 +1493,7 @@ TextureImporter:
         - {x: 27, y: -35}
         - {x: 27, y: -23}
         - {x: 6, y: 35}
-    - name: sheet_80
+    - name: loli_basebeige
       rect:
         serializedVersion: 2
         x: 840
@@ -1516,14 +1501,14 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 6, y: -35}
         - {x: 6, y: 35}
         - {x: -6, y: 35}
         - {x: -6, y: -35}
-    - name: sheet_81
+    - name: loli_basechoco
       rect:
         serializedVersion: 2
         x: 910
@@ -1531,14 +1516,14 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 6, y: -35}
         - {x: 6, y: 35}
         - {x: -6, y: 35}
         - {x: -6, y: -35}
-    - name: sheet_82
+    - name: cup_cake
       rect:
         serializedVersion: 2
         x: 70
@@ -1546,7 +1531,7 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -35, y: 35}
@@ -1555,7 +1540,7 @@ TextureImporter:
         - {x: 27, y: -35}
         - {x: 35, y: 7}
         - {x: 35, y: 35}
-    - name: sheet_83
+    - name: waffle_pink
       rect:
         serializedVersion: 2
         x: 140
@@ -1563,7 +1548,7 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -17, y: 35}
@@ -1573,25 +1558,24 @@ TextureImporter:
         - {x: 35, y: -30}
         - {x: 35, y: 4}
         - {x: 6, y: 35}
-    - name: sheet_84
+    - name: waffle_white
       rect:
         serializedVersion: 2
         x: 210
-        y: 0
+        y: 1
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -17, y: 35}
-        - {x: -35, y: 4}
-        - {x: -35, y: -35}
-        - {x: 22, y: -35}
-        - {x: 35, y: -30}
-        - {x: 35, y: 4}
-        - {x: 6, y: 35}
-    - name: sheet_85
+      - - {x: -35, y: 35}
+        - {x: -35, y: -19}
+        - {x: -25, y: -35}
+        - {x: 24, y: -35}
+        - {x: 35, y: -33}
+        - {x: 35, y: 35}
+    - name: waffle_choco
       rect:
         serializedVersion: 2
         x: 280
@@ -1599,7 +1583,7 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -17, y: 35}
@@ -1609,78 +1593,69 @@ TextureImporter:
         - {x: 35, y: -30}
         - {x: 35, y: 4}
         - {x: 6, y: 35}
-    - name: sheet_86
+    - name: cookie_pink
       rect:
         serializedVersion: 2
         x: 350
-        y: 0
+        y: 29
         width: 70
-        height: 70
+        height: 41
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -35, y: 35}
-        - {x: -35, y: -7}
-        - {x: 35, y: -7}
-        - {x: 35, y: 35}
-    - name: sheet_87
+      - - {x: -35, y: 20.5}
+        - {x: -35, y: -20.5}
+        - {x: 35, y: -20.5}
+        - {x: 35, y: 20.5}
+    - name: cookie_brown
       rect:
         serializedVersion: 2
         x: 420
-        y: 0
+        y: 29
         width: 70
-        height: 70
+        height: 41
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -35, y: 35}
-        - {x: -35, y: -7}
-        - {x: 35, y: -7}
-        - {x: 35, y: 35}
-    - name: sheet_88
+      - - {x: -35, y: 20.5}
+        - {x: -35, y: -20.5}
+        - {x: 35, y: -20.5}
+        - {x: 35, y: 20.5}
+    - name: cookie_choco
       rect:
         serializedVersion: 2
         x: 490
-        y: 0
+        y: 30
         width: 70
-        height: 70
+        height: 40
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -35, y: 35}
-        - {x: -35, y: -7}
-        - {x: 35, y: -7}
-        - {x: 35, y: 35}
-    - name: sheet_89
+      - - {x: -35, y: 20}
+        - {x: -35, y: -20}
+        - {x: 35, y: -20}
+        - {x: 35, y: 20}
+    - name: gummyworm_end
       rect:
         serializedVersion: 2
-        x: 560
+        x: 561
         y: 0
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 18, y: 14}
-        - {x: 16, y: 11}
-        - {x: 13, y: 7}
-        - {x: 13, y: -35}
+      - - {x: 15, y: 14}
+        - {x: 12, y: 13}
+        - {x: 12, y: -35}
         - {x: 35, y: -35}
-        - {x: 35, y: 10}
-        - {x: 33, y: 14}
-      - - {x: -32, y: 2}
-        - {x: -32, y: 5}
-        - {x: -35, y: 6}
-        - {x: -35, y: 1}
-      - - {x: -32, y: 30}
-        - {x: -32, y: 33}
-        - {x: -35, y: 34}
-        - {x: -35, y: 29}
-    - name: sheet_90
+        - {x: 35, y: 11}
+        - {x: 32, y: 14}
+    - name: gummyworm_mid
       rect:
         serializedVersion: 2
         x: 630
@@ -1688,7 +1663,7 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -22, y: 35}
@@ -1697,7 +1672,7 @@ TextureImporter:
         - {x: 35, y: -35}
         - {x: 35, y: 22}
         - {x: 26, y: 35}
-    - name: sheet_91
+    - name: gummyworm_head
       rect:
         serializedVersion: 2
         x: 700
@@ -1705,7 +1680,7 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 26, y: 35}
@@ -1719,7 +1694,7 @@ TextureImporter:
         - {x: -9, y: -35}
         - {x: 35, y: -15}
         - {x: 35, y: 23}
-    - name: sheet_92
+    - name: gummyworm_redend
       rect:
         serializedVersion: 2
         x: 770
@@ -1727,7 +1702,7 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 18, y: 14}
@@ -1742,24 +1717,25 @@ TextureImporter:
         - {x: 24, y: 32}
         - {x: 26, y: 34}
         - {x: 26, y: 35}
-    - name: sheet_93
+    - name: gummyworm_redmid
       rect:
         serializedVersion: 2
-        x: 840
+        x: 839
         y: 0
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -22, y: 35}
-        - {x: -35, y: 30}
+      - - {x: -16, y: 35}
+        - {x: -33, y: 22}
+        - {x: -35, y: 16}
         - {x: -35, y: -35}
         - {x: 35, y: -35}
-        - {x: 35, y: 22}
-        - {x: 26, y: 35}
-    - name: sheet_94
+        - {x: 35, y: 23}
+        - {x: 18, y: 35}
+    - name: gummyworm_redhead
       rect:
         serializedVersion: 2
         x: 910
@@ -1767,7 +1743,7 @@ TextureImporter:
         width: 70
         height: 70
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 22, y: 35}
